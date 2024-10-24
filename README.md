@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center"><img src="https://img2.akspic.ru/previews/4/0/4/2/7/172404/172404-vashe_imya-miyamizu_mitsuha-taki_tachibana-anime-atmosfera-x750.jpg" width="750"/></p>
 
-<!--
-**yuoto13/yuoto13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://t.me/yarxhe13" style="text-decoration: none; display: inline-block; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
+  </a>
+  <a href="https://vk.com/babyvlaga" style="text-decoration: none; display: inline-block; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/VK-purple?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge">
+  </a>
+  <a href="https://discord.com/users/962637786224164924" style="text-decoration: none; display: inline-block;">
+    <img src="https://img.shields.io/badge/DISCORD-pink?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
+  </a>
+</p>

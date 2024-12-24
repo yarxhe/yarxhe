@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjI5bTJ5NGtoeWdjNWZoaDNkb2h5d2RxejlpeXN2aTNwZ2xwb2gyayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q217GUnfKAmJlFcjBX/giphy.gif" width="750"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RuN2JsczJlN3RzaGF5eW43Z2lwbGxuMzZ6cDlqdDV0NDY2MmJyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.webp" width="750" height="350"/>
 </p>
 <p align="center">
   <a href="https://t.me/yarxhe13" style="text-decoration: none;">
@@ -17,7 +17,7 @@
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/13Z5kstwARnPna/giphy.gif?cid=790b761195go1f87suitvb3bo4hw9i72qcse0xxifqc9l92h&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300" /></p>
+<p align="center"><img src="https://media.giphy.com/media/13Z5kstwARnPna/giphy.gif?cid=790b761195go1f87suitvb3bo4hw9i72qcse0xxifqc9l92h&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="750" height="350" /></p>
 
 ### :man_technologist: &nbsp;About Me :
 

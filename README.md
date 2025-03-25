@@ -47,8 +47,8 @@ I am an Intern Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### 🔥 &nbsp; My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuoto13&show_icons=true&theme=rose)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuoto13&layout=compact&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuoto13&show_icons=true&theme=rose)
 

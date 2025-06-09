@@ -3,7 +3,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RuN2JsczJlN3RzaGF5eW43Z2lwbGxuMzZ6cDlqdDV0NDY2MmJyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.webp" width="750" height="350"/>
 </p>
 <p align="center">
-  <a href="https://t.me/yarxhe13" style="text-decoration: none;">
+  <a href="https://t.me/devheadb" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
   <a href="https://vk.com/babyvlaga" style="text-decoration: none;">
@@ -23,7 +23,7 @@ I am an Intern Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - 🔭 I’m currently learning Python, SQL, HTML, CSS, Docker, Kotlin, Flutter, Dart, and Django.
 - 🌱 Exploring new technologies and enhancing my programming skills.
 - ⚡ In my free time, I work on personal projects and contribute to open-source.
-- 📫 How to reach me: &nbsp; [![TELEGRAM Badge](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yarxhe13)
+- 📫 How to reach me: &nbsp; [![TELEGRAM Badge](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devheadb)
 
 ---
 

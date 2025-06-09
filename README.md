@@ -1,6 +1,6 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RuN2JsczJlN3RzaGF5eW43Z2lwbGxuMzZ6cDlqdDV0NDY2MmJyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.webp" width="750" height="350"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N21uZ3Y3Ymx1NjhlczJwZTBkNW9sZjI5cG9xd2diNWI3a24yODlmeSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="750" height="350"/>
 </p>
 <p align="center">
   <a href="https://t.me/devheadb" style="text-decoration: none;">

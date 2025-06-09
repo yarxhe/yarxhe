@@ -47,9 +47,27 @@ I am an Intern Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### ⚙️ &nbsp;GitHub Analytics:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuoto13&layout=compact&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuoto13&show_icons=true&theme=rose)
-
+<table style="width:100%">
+  <tr>
+    <td colspan="2" align="center">
+      <h3 align="center"> 
+        <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> 
+        My Coding Stack
+      </h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuoto13&layout=compact&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <h3>Activity</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=yuoto13&count_private=true&show_icons=true&theme=radical&hide_border=true" />
+    </td>
+    <td align="center">
+      <h3>Consistency</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuoto13&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>

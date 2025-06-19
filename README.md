@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 О себе:
 
-Я **middle Developer** из России 🇷🇺  
+Я **Middle Developer** из России 🇷🇺  
 🎓 Учу: `Python`, `SQL`, `HTML`, `CSS`, `Docker`, `Kotlin`, `Flutter`, `Dart`, `Django`  
 🌱 Развиваюсь в сфере IT, занимаюсь личными проектами и open-source  
 ⚡ Люблю автоматизировать процессы и создавать удобные решения  

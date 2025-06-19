@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=yuoto13&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=yarxhe&style=flat-square&color=blue" alt=""></p>
 
 ### :man_technologist: &nbsp;About Me :
 
@@ -56,18 +56,18 @@ I am an Intern Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
         <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> 
         My Coding Stack
       </h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuoto13&layout=compact&theme=default&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarxhe&layout=compact&theme=default&hide_border=true" />
     </td>
   </tr>
   
   <tr>
     <td align="center">
       <h3>Activity</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=yuoto13&count_private=true&show_icons=true&theme=default&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=yarxhe&count_private=true&show_icons=true&theme=default&hide_border=true" />
     </td>
     <td align="center">
       <h3>Consistency</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuoto13&theme=default&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yarxhe&theme=default&hide_border=true" />
     </td>
   </tr>
 </table>

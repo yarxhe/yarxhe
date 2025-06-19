@@ -1,7 +1,5 @@
 <h1 align="center">👋 Привет, я yarxhe</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="60" alt="Приветствие"/>
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N21uZ3Y3Ymx1NjhlczJwZTBkNW9sZjI5cG9xd2diNWI3a24yODlmeSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  width="700" height="350" alt="Banner"/>

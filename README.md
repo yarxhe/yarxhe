@@ -9,11 +9,11 @@
 
 ### 🧑‍💻  About me:
 
-I am a **Middle Developer** from Russia 🇷🇺 
-🎓 I study: `Python`, `SQL`, `HTML`, `CSS`, `Docker`, `Kotlin`, `Flutter`, `Dart`, `Django` 
-🌱 I am developing in the IT field, working on personal projects and open-source 
-⚡ I love automating processes and creating convenient solutions 
-📬 You can contact me via:
+I am a **Middle Developer** from Russia 🇷🇺   
+🎓 I study: `Python`, `SQL`, `HTML`, `CSS`, `Docker`, `Kotlin`, `Flutter`, `Dart`, `Django`   
+🌱 I am developing in the IT field, working on personal projects and open-source   
+⚡ I love automating processes and creating convenient solutions   
+📬 You can contact me via:  
 
 <p align="center">
   <a href="https://t.me/devheadb"><img  src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram"></a>
@@ -43,5 +43,5 @@ I am a **Middle Developer** from Russia 🇷🇺
 
 ---
 
-Thanks for watching! 
+Thanks for watching!   
 If you see this - maybe we will meet in the future 👨‍💻✨

@@ -1,4 +1,4 @@
-<h1 align="center">👋 Привет, я yarxhe</h1>
+<h1 align="center">👋 Hi, I'm yarxhe</h1>
 <p align="center">
 
 <p align="center">
@@ -7,13 +7,13 @@
 
 ---
 
-### 🧑‍💻 О себе:
+### 🧑‍💻  About me:
 
-Я **Middle Developer** из России 🇷🇺  
-🎓 Учу: `Python`, `SQL`, `HTML`, `CSS`, `Docker`, `Kotlin`, `Flutter`, `Dart`, `Django`  
-🌱 Развиваюсь в сфере IT, занимаюсь личными проектами и open-source  
-⚡ Люблю автоматизировать процессы и создавать удобные решения  
-📬 Связаться со мной можно через:
+I am a **Middle Developer** from Russia 🇷🇺 
+🎓 I study: `Python`, `SQL`, `HTML`, `CSS`, `Docker`, `Kotlin`, `Flutter`, `Dart`, `Django` 
+🌱 I am developing in the IT field, working on personal projects and open-source 
+⚡ I love automating processes and creating convenient solutions 
+📬 You can contact me via:
 
 <p align="center">
   <a href="https://t.me/devheadb"><img  src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram"></a>
@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠 Навыки и технологии: 
+### 🛠 my stack
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -43,5 +43,5 @@
 
 ---
 
-Спасибо за просмотр!  
-Если ты видишь это — возможно, мы встретимся в будущем 👨‍💻✨
+Thanks for watching! 
+If you see this - maybe we will meet in the future 👨‍💻✨

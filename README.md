@@ -8,8 +8,8 @@
 ---
 
 ### 🧑‍💻  About me:
-
-I am a **Middle Developer** from Russia 🇷🇺   
+👋 Hi, I'm Kirill  
+💻 Middle Full-Stack Developer | Russia 🇷🇺  
 🎓 I study: `Python`, `SQL`, `HTML`, `CSS`, `Docker`, `Kotlin`, `Flutter`, `Dart`, `Django`   
 🌱 I am developing in the IT field, working on personal projects and open-source   
 ⚡ I love automating processes and creating convenient solutions   

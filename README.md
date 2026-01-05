@@ -14,6 +14,17 @@ Middle Full-Stack Developer
 I build web & automation solutions that solve real problems.  
 Focused on backend systems, DevOps automation and scalable web applications.
 
+### 🧪 Selected Projects
+
+**Automation Platform for Subscription Services**  
+Backend system for managing users, access control, billing logic and infrastructure automation.
+
+**Traffic & Conversion Optimization Toolkit**  
+Set of automation tools for working with high-load traffic, data processing and performance optimization.
+
+**Network Access Management Bot**  
+Service for managing secure connections, user sessions and automated provisioning.
+
 🧩 **Main interests:**
 - Backend & API development (Python, Django)
 - Automation & DevOps (Docker, CI/CD)

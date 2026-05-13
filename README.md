@@ -1,75 +1,118 @@
-<h1 align="center">👋 Hi, I'm yarxhe</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N21uZ3Y3Ymx1NjhlczJwZTBkNW9sZjI5cG9xd2diNWI3a24yODlmeSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="700" height="350" alt="Banner"/>
-</p>
+```
+██╗   ██╗ █████╗ ██████╗ ██╗  ██╗██╗  ██╗███████╗
+╚██╗ ██╔╝██╔══██╗██╔══██╗╚██╗██╔╝██║  ██║██╔════╝
+ ╚████╔╝ ███████║██████╔╝ ╚███╔╝ ███████║█████╗  
+  ╚██╔╝  ██╔══██║██╔══██╗ ██╔██╗ ██╔══██║██╔══╝  
+   ██║   ██║  ██║██║  ██║██╔╝ ██╗██║  ██║███████╗
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+```
 
----
+**`> middle full-stack developer`** · **`> backend & automation`** · **`> always building`**
 
-## 🧑‍💻 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=backend+systems+%26+apis;automation+%26+devops;web+services+%26+dashboards;open+source+%26+pet+projects)](https://git.io/typing-svg)
 
-Hi, I'm **Kirill** 👋  
-Middle Full-Stack Developer  
+</div>
 
-I build web & automation solutions that solve real problems.  
-Focused on backend systems, DevOps automation and scalable web applications.
+-----
 
-### 🧪 Selected Projects
+```bash
+$ whoami
+> kirill — middle full-stack dev, python-first, automation-obsessed
+> building tools that actually work and systems that don't fall apart
+> based in the internet, shipping code since whenever
+```
 
-**Automation Platform for Subscription Services**  
-Backend system for managing users, access control, billing logic and infrastructure automation.
+-----
 
-**Traffic & Conversion Optimization Toolkit**  
-Set of automation tools for working with high-load traffic, data processing and performance optimization.
+## `~/projects`
 
-**Network Access Management Bot**  
-Service for managing secure connections, user sessions and automated provisioning.
+```
+.
+├── automation-platform/     # subscription mgmt · billing · access control
+│   └── stack: Django · PostgreSQL · Docker · Redis
+│
+├── traffic-toolkit/         # high-load traffic · data pipelines · optimization
+│   └── stack: Python · async · custom scrapers
+│
+└── network-bot/             # vpn access · user sessions · auto-provisioning
+    └── stack: Python · aiogram · infrastructure automation
+```
 
-🧩 **Main interests:**
-- Backend & API development (Python, Django)
-- Automation & DevOps (Docker, CI/CD)
-- Web services & dashboards
-- Open-source & pet projects
+-----
 
-⚙️ Currently building personal products & freelance solutions  
-🚀 Always learning system design, architecture & best engineering practices
+## `~/stack`
 
----
+<div align="center">
 
-## 🛠 Tech I Work With
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00FF9C)
+![Django](https://img.shields.io/badge/Django-0a0a0a?style=for-the-badge&logo=django&logoColor=00FF9C)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=00FF9C)
+![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=00FF9C)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=00FF9C)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=00FF9C)
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=00FF9C)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=00FF9C)
 
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="SQL" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="40"/>&nbsp;
-</p>
+**also know my way around:** `Kotlin` · `Flutter` · `Node.js` · `CI/CD` · `nginx`
 
-**Also familiar with:** Kotlin, Flutter, Node.js
+</div>
 
----
+-----
 
-## 🚧 What I'm Building Now
+## `~/stats`
 
-- Automation tools for teams & businesses  
-- Backend systems & APIs  
-- Web services & dashboards  
-- Scalable full-stack applications
+<div align="center">
 
----
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=yarxhe&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00FF9C&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff&hide_border=false"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarxhe&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00FF9C&title_color=00FF9C&text_color=ffffff"/>
 
-## 📬 Contact Me
+</div>
 
-<p align="center">
-  <a href="https://t.me/devheadb"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"/></a>
-  <a href="https://vk.com/babyvlaga"><img src="https://img.shields.io/badge/VK-purple?style=for-the-badge&logo=vk"/></a>
-  <a href="https://discord.com/users/962637786224164924"><img src="https://img.shields.io/badge/Discord-536DFE?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
+<div align="center">
 
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=yarxhe&theme=dark&background=0D0D0D&border=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C)](https://git.io/streak-stats)
 
-> *If you see this — maybe we will build something great together* 👨‍💻✨
+</div>
+
+-----
+
+## `~/now`
+
+```python
+current_focus = [
+    "automation tools for teams & businesses",
+    "backend systems & scalable apis",
+    "web services & internal dashboards",
+    "freelance & personal products",
+]
+
+always_learning = ["system design", "architecture", "best engineering practices"]
+
+open_to = ["interesting projects", "collaborations", "freelance"]
+```
+
+-----
+
+## `~/contact`
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-0a0a0a?style=for-the-badge&logo=telegram&logoColor=00FF9C)](https://t.me/devheadb)
+[![VK](https://img.shields.io/badge/VK-0a0a0a?style=for-the-badge&logo=vk&logoColor=00FF9C)](https://vk.com/babyvlaga)
+[![Discord](https://img.shields.io/badge/Discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=00FF9C)](https://discord.com/users/962637786224164924)
+
+</div>
+
+-----
+
+<div align="center">
+
+```
+> if you're reading this — let's ship something
+```
+
+![visitors](https://komarev.com/ghpvc/?username=yarxhe&color=00FF9C&style=flat-square&label=visitors)
+
+</div>

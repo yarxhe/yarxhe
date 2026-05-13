@@ -1,107 +1,140 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:111111&height=120&section=header&text=&animation=fadeIn"/>
+
 ```
-██╗   ██╗ █████╗ ██████╗ ██╗  ██╗██╗  ██╗███████╗
-╚██╗ ██╔╝██╔══██╗██╔══██╗╚██╗██╔╝██║  ██║██╔════╝
- ╚████╔╝ ███████║██████╔╝ ╚███╔╝ ███████║█████╗  
-  ╚██╔╝  ██╔══██║██╔══██╗ ██╔██╗ ██╔══██║██╔══╝  
-   ██║   ██║  ██║██║  ██║██╔╝ ██╗██║  ██║███████╗
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+╔═══════════════════════════════════════════════════════════╗
+║  SYSTEM BOOT....................................[OK]       ║
+║  LOADING USER PROFILE...........................[OK]       ║
+║  DECRYPTING IDENTITY............................[OK]       ║
+║                                                           ║
+║  > NAME    : K1R1LL / yarxhe                              ║
+║  > ROLE    : Middle Full-Stack Developer                  ║
+║  > STATUS  : online · building · caffeinated             ║
+║  > UPTIME  : since 2024                                   ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
-**`> middle full-stack developer`** · **`> backend & automation`** · **`> always building`**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=backend+systems+%26+apis;automation+%26+devops;web+services+%26+dashboards;open+source+%26+pet+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=800&color=39FF14&center=true&vCenter=true&width=480&lines=initializing+backend+systems...;spinning+up+docker+containers...;pushing+to+main+%F0%9F%9A%80;no+bugs+found+%E2%80%94+impossible...;grep+-r+%22wtf%22+.+%7C+wc+-l;deploying+at+3am+again...)](https://git.io/typing-svg)
 
 </div>
 
 -----
-
-```bash
-$ whoami
-> kirill — middle full-stack dev, python-first, automation-obsessed
-> building tools that actually work and systems that don't fall apart
-> based in the internet, shipping code since whenever
-```
-
------
-
-## `~/projects`
-
-```
-.
-├── automation-platform/     # subscription mgmt · billing · access control
-│   └── stack: Django · PostgreSQL · Docker · Redis
-│
-├── traffic-toolkit/         # high-load traffic · data pipelines · optimization
-│   └── stack: Python · async · custom scrapers
-│
-└── network-bot/             # vpn access · user sessions · auto-provisioning
-    └── stack: Python · aiogram · infrastructure automation
-```
-
------
-
-## `~/stack`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00FF9C)
-![Django](https://img.shields.io/badge/Django-0a0a0a?style=for-the-badge&logo=django&logoColor=00FF9C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=00FF9C)
-![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=00FF9C)
-![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=00FF9C)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=00FF9C)
-![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=00FF9C)
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=00FF9C)
+### `SIGNAL INTERCEPTED — IDENTITY CONFIRMED`
 
-**also know my way around:** `Kotlin` · `Flutter` · `Node.js` · `CI/CD` · `nginx`
+</div>
+
+```
+┌─[yarxhe@earth]─[~]
+└──╼ cat about.txt
+
+  not a 10x engineer.
+  not a rockstar developer.
+  just someone who ships things that work
+  and fixes things before anyone notices they broke.
+
+  backend-first brain. automation addict.
+  python is my native language.
+  docker is my comfort zone.
+  3am deploys are a personality trait.
+```
+
+-----
+
+## `// PROJECTS — CLASSIFIED`
+
+```
+┌─[yarxhe@earth]─[~/projects]
+└──╼ ls -la
+
+drwxr-xr-x  automation-platform/
+  └─ subscription management · billing logic · access control
+     Django · PostgreSQL · Docker · Redis · Celery
+
+drwxr-xr-x  traffic-toolkit/
+  └─ high-load pipelines · data processing · conversion ops
+     Python · async/await · custom scrapers · analytics
+
+drwxr-xr-x  network-bot/
+  └─ vpn provisioning · user sessions · auto-access mgmt
+     Python · aiogram · infra automation · SSH
+
+drwxr-xr-x  [REDACTED]/
+  └─ currently building — ETA unknown
+     ██████████████░░░░░░ 67%
+```
+
+-----
+
+## `// STACK — LOADED`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/─_Python-111?style=for-the-badge&logo=python&logoColor=39FF14)
+![Django](https://img.shields.io/badge/─_Django-111?style=for-the-badge&logo=django&logoColor=39FF14)
+![JavaScript](https://img.shields.io/badge/─_JavaScript-111?style=for-the-badge&logo=javascript&logoColor=39FF14)
+![React](https://img.shields.io/badge/─_React-111?style=for-the-badge&logo=react&logoColor=39FF14)
+![Docker](https://img.shields.io/badge/─_Docker-111?style=for-the-badge&logo=docker&logoColor=39FF14)
+![PostgreSQL](https://img.shields.io/badge/─_PostgreSQL-111?style=for-the-badge&logo=postgresql&logoColor=39FF14)
+![Linux](https://img.shields.io/badge/─_Linux-111?style=for-the-badge&logo=linux&logoColor=39FF14)
+![Git](https://img.shields.io/badge/─_Git-111?style=for-the-badge&logo=git&logoColor=39FF14)
+![Nginx](https://img.shields.io/badge/─_Nginx-111?style=for-the-badge&logo=nginx&logoColor=39FF14)
+![Redis](https://img.shields.io/badge/─_Redis-111?style=for-the-badge&logo=redis&logoColor=39FF14)
+
+`// secondary:` Kotlin · Flutter · Node.js · CI/CD · Bash
 
 </div>
 
 -----
 
-## `~/stats`
+## `// METRICS — LIVE FEED`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yarxhe&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00FF9C&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff&hide_border=false"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarxhe&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00FF9C&title_color=00FF9C&text_color=ffffff"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=yarxhe&show_icons=true&bg_color=0d0d0d&border_color=39FF14&title_color=39FF14&icon_color=39FF14&text_color=cccccc&hide_border=false&rank_icon=github&custom_title=yarxhe%20//stats"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarxhe&layout=compact&bg_color=0d0d0d&border_color=39FF14&title_color=39FF14&text_color=cccccc&custom_title=yarxhe%20//langs"/>
 
-</div>
+<br/>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yarxhe&theme=dark&background=0D0D0D&border=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yarxhe&theme=dark&background=0D0D0D&border=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14)](https://git.io/streak-stats)
 
 </div>
 
 -----
 
-## `~/now`
+## `// CURRENT PROCESS`
 
 ```python
-current_focus = [
-    "automation tools for teams & businesses",
-    "backend systems & scalable apis",
-    "web services & internal dashboards",
-    "freelance & personal products",
-]
+# ps aux | grep yarxhe
 
-always_learning = ["system design", "architecture", "best engineering practices"]
-
-open_to = ["interesting projects", "collaborations", "freelance"]
+while alive:
+    build("automation tools for teams & businesses")
+    build("backend systems & production-grade apis")
+    build("web dashboards & internal services")
+    learn("system design · architecture · patterns")
+    if problem.is_interesting():
+        drop_everything()
+        solve(problem)
+    sleep(4)  # optional
 ```
 
 -----
 
-## `~/contact`
+## `// ESTABLISH CONNECTION`
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-0a0a0a?style=for-the-badge&logo=telegram&logoColor=00FF9C)](https://t.me/devheadb)
-[![VK](https://img.shields.io/badge/VK-0a0a0a?style=for-the-badge&logo=vk&logoColor=00FF9C)](https://vk.com/babyvlaga)
-[![Discord](https://img.shields.io/badge/Discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=00FF9C)](https://discord.com/users/962637786224164924)
+```
+ping yarxhe... response received ✓
+select your protocol:
+```
+
+[![Telegram](https://img.shields.io/badge/──_TELEGRAM-0d0d0d?style=for-the-badge&logo=telegram&logoColor=39FF14)](https://t.me/devheadb)
+[![VK](https://img.shields.io/badge/──_VK-0d0d0d?style=for-the-badge&logo=vk&logoColor=39FF14)](https://vk.com/babyvlaga)
+[![Discord](https://img.shields.io/badge/──_DISCORD-0d0d0d?style=for-the-badge&logo=discord&logoColor=39FF14)](https://discord.com/users/962637786224164924)
 
 </div>
 
@@ -110,9 +143,21 @@ open_to = ["interesting projects", "collaborations", "freelance"]
 <div align="center">
 
 ```
-> if you're reading this — let's ship something
+╔══════════════════════════════════════════════╗
+║                                              ║
+║   "the best code is the one                 ║
+║    that runs in production                  ║
+║    and nobody questions why"                ║
+║                                              ║
+║   — yarxhe, probably                        ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ```
 
-![visitors](https://komarev.com/ghpvc/?username=yarxhe&color=00FF9C&style=flat-square&label=visitors)
+`> session active` · `> ready to build` · `> drop a message`
+
+![visitors](https://komarev.com/ghpvc/?username=yarxhe&color=39FF14&style=flat-square&label=connections+established)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=80&section=footer"/>
 
 </div>
